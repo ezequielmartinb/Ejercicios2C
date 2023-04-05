@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ezequ\\Desktop\\PROGRAMAS C#\\Ejercicios\\Ejercicio01\\Ejercicio01.csproj": {}
+    "C:\\Users\\ezequ\\Desktop\\Ejercicios2C\\Ejercicio01\\Ejercicio01.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ezequ\\Desktop\\PROGRAMAS C#\\Ejercicios\\Ejercicio01\\Ejercicio01.csproj": {
+    "C:\\Users\\ezequ\\Desktop\\Ejercicios2C\\Ejercicio01\\Ejercicio01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ezequ\\Desktop\\PROGRAMAS C#\\Ejercicios\\Ejercicio01\\Ejercicio01.csproj",
+        "projectUniqueName": "C:\\Users\\ezequ\\Desktop\\Ejercicios2C\\Ejercicio01\\Ejercicio01.csproj",
         "projectName": "Ejercicio01",
-        "projectPath": "C:\\Users\\ezequ\\Desktop\\PROGRAMAS C#\\Ejercicios\\Ejercicio01\\Ejercicio01.csproj",
+        "projectPath": "C:\\Users\\ezequ\\Desktop\\Ejercicios2C\\Ejercicio01\\Ejercicio01.csproj",
         "packagesPath": "C:\\Users\\ezequ\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ezequ\\Desktop\\PROGRAMAS C#\\Ejercicios\\Ejercicio01\\obj\\",
+        "outputPath": "C:\\Users\\ezequ\\Desktop\\Ejercicios2C\\Ejercicio01\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ezequ\\AppData\\Roaming\\NuGet\\NuGet.Config",

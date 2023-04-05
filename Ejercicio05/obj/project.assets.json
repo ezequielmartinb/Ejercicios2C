@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ezequ\\Desktop\\Ejercicios2C\\Ejercicio08\\Ejercicio08.csproj",
-      "projectName": "Ejercicio08",
-      "projectPath": "C:\\Users\\ezequ\\Desktop\\Ejercicios2C\\Ejercicio08\\Ejercicio08.csproj",
+      "projectUniqueName": "C:\\Users\\ezequ\\Desktop\\Ejercicios2C\\Ejercicio05\\Ejercicio05.csproj",
+      "projectName": "Ejercicio05",
+      "projectPath": "C:\\Users\\ezequ\\Desktop\\Ejercicios2C\\Ejercicio05\\Ejercicio05.csproj",
       "packagesPath": "C:\\Users\\ezequ\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ezequ\\Desktop\\Ejercicios2C\\Ejercicio08\\obj\\",
+      "outputPath": "C:\\Users\\ezequ\\Desktop\\Ejercicios2C\\Ejercicio05\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ezequ\\AppData\\Roaming\\NuGet\\NuGet.Config",
