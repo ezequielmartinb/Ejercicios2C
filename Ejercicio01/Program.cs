@@ -6,8 +6,8 @@
         {
             /*
              * 1.	Ingresar 5 números por consola, 
-             *      guardándolos en una variable escalar. 
-             *      Luego calcular y mostrar: el valor máximo, el valor mínimo y el promedio.
+                    guardándolos en una variable escalar. 
+                    Luego calcular y mostrar: el valor máximo, el valor mínimo y el promedio.
              */
 
             int[] numeros = new int[5];

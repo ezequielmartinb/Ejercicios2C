@@ -8,7 +8,7 @@
                 con DateTime.Now).
 
                 Nota: Utilizar estructuras selectivas. Tener en cuenta los años bisiestos. 
-         */
+        */
         static void Main(string[] args)
         {
             DateTime fechaDeNacimiento;

@@ -13,7 +13,6 @@ namespace Ejercicio06
 
                 Pedirle al usuario un año de inicio y otro de fin y mostrar todos los años bisiestos en ese rango.
                 Nota: Utilizar estructuras repetitivas, selectivas y la función módulo (%).
-
          */
         static void Main(string[] args)
         {
