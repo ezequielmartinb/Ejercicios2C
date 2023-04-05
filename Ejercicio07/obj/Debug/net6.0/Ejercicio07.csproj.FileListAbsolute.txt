@@ -1,0 +1,15 @@
+C:\Users\ezequ\Desktop\PROGRAMAS C#\Ejercicios\Ejercicio07\bin\Debug\net6.0\Ejercicio07.exe
+C:\Users\ezequ\Desktop\PROGRAMAS C#\Ejercicios\Ejercicio07\bin\Debug\net6.0\Ejercicio07.deps.json
+C:\Users\ezequ\Desktop\PROGRAMAS C#\Ejercicios\Ejercicio07\bin\Debug\net6.0\Ejercicio07.runtimeconfig.json
+C:\Users\ezequ\Desktop\PROGRAMAS C#\Ejercicios\Ejercicio07\bin\Debug\net6.0\Ejercicio07.dll
+C:\Users\ezequ\Desktop\PROGRAMAS C#\Ejercicios\Ejercicio07\bin\Debug\net6.0\Ejercicio07.pdb
+C:\Users\ezequ\Desktop\PROGRAMAS C#\Ejercicios\Ejercicio07\obj\Debug\net6.0\Ejercicio07.csproj.AssemblyReference.cache
+C:\Users\ezequ\Desktop\PROGRAMAS C#\Ejercicios\Ejercicio07\obj\Debug\net6.0\Ejercicio07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ezequ\Desktop\PROGRAMAS C#\Ejercicios\Ejercicio07\obj\Debug\net6.0\Ejercicio07.AssemblyInfoInputs.cache
+C:\Users\ezequ\Desktop\PROGRAMAS C#\Ejercicios\Ejercicio07\obj\Debug\net6.0\Ejercicio07.AssemblyInfo.cs
+C:\Users\ezequ\Desktop\PROGRAMAS C#\Ejercicios\Ejercicio07\obj\Debug\net6.0\Ejercicio07.csproj.CoreCompileInputs.cache
+C:\Users\ezequ\Desktop\PROGRAMAS C#\Ejercicios\Ejercicio07\obj\Debug\net6.0\Ejercicio07.dll
+C:\Users\ezequ\Desktop\PROGRAMAS C#\Ejercicios\Ejercicio07\obj\Debug\net6.0\refint\Ejercicio07.dll
+C:\Users\ezequ\Desktop\PROGRAMAS C#\Ejercicios\Ejercicio07\obj\Debug\net6.0\Ejercicio07.pdb
+C:\Users\ezequ\Desktop\PROGRAMAS C#\Ejercicios\Ejercicio07\obj\Debug\net6.0\Ejercicio07.genruntimeconfig.cache
+C:\Users\ezequ\Desktop\PROGRAMAS C#\Ejercicios\Ejercicio07\obj\Debug\net6.0\ref\Ejercicio07.dll
