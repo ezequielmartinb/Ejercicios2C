@@ -1,4 +1,7 @@
-﻿namespace Ejercicio08
+﻿
+using System.Runtime.CompilerServices;
+
+namespace Ejercicio08
 {
     internal class Program
     {
@@ -22,7 +25,99 @@
              * 
              * 
              */
-            Console.WriteLine("Hello, World!");
+            Empleado empleados = new Empleado();
+            string nombre;
+            int valorHora;
+            int antiguedad;
+            int horasTrabajadas;
+            float sueldoNeto;
+            float sueldoBruto;
+            float descuento;
+            char deseaContinuar;
+            bool resultado;
+            
+            do
+            {
+                nombre = PedirString("Ingrese un nombre: ", "Error. Nombre invalido. Reingrese un nombre valido: ");
+                valorHora = PedirNumeroEntero("Ingrese el valor de la hora (0-30000): ", "Error. Reingrese un valor de hora valido", 1, 30000);
+                antiguedad = PedirNumeroEntero("Ingrese antiguedad: ", "Error. Reingrese una antiguedad valida", 1, 30);
+                horasTrabajadas = PedirNumeroEntero("Ingrese horas trabajadas: ", "Error. Reingrese horas trabajadas valida", 1, 240);
+                sueldoNeto = CalcularSueldoNeto(horasTrabajadas, valorHora, antiguedad, 150);
+                descuento = CalcularDescuento(sueldoNeto, 13);
+                sueldoBruto = CalcularSueldoBruto(horasTrabajadas, valorHora, antiguedad, 13, 150);
+
+                empleados = new Empleado(nombre, valorHora, antiguedad, horasTrabajadas, sueldoBruto, sueldoNeto, descuento);
+
+                Console.WriteLine("Desea agregar otro empleado? S/N");
+                resultado = char.TryParse(Console.ReadLine(), out deseaContinuar);
+
+                while (resultado == false && (deseaContinuar != 'N' || deseaContinuar != 'S'))
+                {
+                    Console.WriteLine("ERROR. CARACTER INVALIDO. Desea agregar otro empleado? S/N");
+                    char.TryParse(Console.ReadLine(), out deseaContinuar);
+                }
+
+            } while (deseaContinuar == 'S');
+
+            Console.WriteLine("RECIBIDO DE SUELDOS\t");
+            Console.WriteLine($"NOMBRE------ANTIGUEDAD------HORAS TRABAJADAS------VALOR HORA------SUELDO BRUTO------DESCUENTO------SUELDO NETO");
+            Console.WriteLine($"{empleados.Nombre}------{empleados.Antiguedad}------{empleados.HorasTrabajadas}------{empleados.ValorHora}------{empleados.SueldoBruto}------{empleados.Descuento}------{empleados.SueldoNeto}");
+
+
         }
+
+        public static string PedirString(string mensaje, string mensajeError)
+        {
+            string? nombreIngresado;
+            Console.WriteLine(mensaje);
+            nombreIngresado = Console.ReadLine();
+            while (int.TryParse(nombreIngresado, out int numero) || string.IsNullOrEmpty(nombreIngresado))
+            {
+                Console.WriteLine(mensajeError);
+                nombreIngresado = Console.ReadLine();
+            }
+
+            return nombreIngresado;
+        }
+        public static int PedirNumeroEntero(string mensaje, string mensajeError, int minimo, int maximo)
+        {
+            int numero;
+            Console.WriteLine(mensaje);
+
+            while (int.TryParse(Console.ReadLine(), out numero) == false || numero < minimo || numero > maximo)
+            {
+                Console.WriteLine(mensajeError);
+            }
+
+            return numero;
+        }
+
+        public static float CalcularSueldoBruto(int horasTrabajadas, int valorHora, int antiguedad, int porcentaje, int montoAntiguedad)
+        {
+            float sueldoNeto;
+            float sueldoBruto;
+            float descuento;
+
+            sueldoNeto = CalcularSueldoNeto(horasTrabajadas, valorHora, antiguedad, montoAntiguedad);
+            descuento = CalcularDescuento(sueldoNeto, porcentaje);
+            sueldoBruto = sueldoNeto - descuento;
+
+            return sueldoBruto;
+        }
+        public static float CalcularSueldoNeto(int horasTrabajadas, int valorHora, int antiguedad, int montoAntiguedad)
+        {
+            float sueldoNeto;
+            sueldoNeto = (horasTrabajadas * valorHora) + (antiguedad * montoAntiguedad);
+            return sueldoNeto;
+        }
+        public static float CalcularDescuento(float sueldoNeto, int porcentaje)
+        {
+            float descuento;
+
+            descuento = (sueldoNeto * porcentaje) / 100;
+
+            return descuento;
+        }
+
     }
 }
