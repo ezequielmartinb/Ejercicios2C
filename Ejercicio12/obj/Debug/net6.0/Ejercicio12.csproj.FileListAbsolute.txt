@@ -1,0 +1,15 @@
+C:\Users\ezequ\Desktop\Ejercicios2C\Ejercicio12\bin\Debug\net6.0\Ejercicio12.exe
+C:\Users\ezequ\Desktop\Ejercicios2C\Ejercicio12\bin\Debug\net6.0\Ejercicio12.deps.json
+C:\Users\ezequ\Desktop\Ejercicios2C\Ejercicio12\bin\Debug\net6.0\Ejercicio12.runtimeconfig.json
+C:\Users\ezequ\Desktop\Ejercicios2C\Ejercicio12\bin\Debug\net6.0\Ejercicio12.dll
+C:\Users\ezequ\Desktop\Ejercicios2C\Ejercicio12\bin\Debug\net6.0\Ejercicio12.pdb
+C:\Users\ezequ\Desktop\Ejercicios2C\Ejercicio12\obj\Debug\net6.0\Ejercicio12.csproj.AssemblyReference.cache
+C:\Users\ezequ\Desktop\Ejercicios2C\Ejercicio12\obj\Debug\net6.0\Ejercicio12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ezequ\Desktop\Ejercicios2C\Ejercicio12\obj\Debug\net6.0\Ejercicio12.AssemblyInfoInputs.cache
+C:\Users\ezequ\Desktop\Ejercicios2C\Ejercicio12\obj\Debug\net6.0\Ejercicio12.AssemblyInfo.cs
+C:\Users\ezequ\Desktop\Ejercicios2C\Ejercicio12\obj\Debug\net6.0\Ejercicio12.csproj.CoreCompileInputs.cache
+C:\Users\ezequ\Desktop\Ejercicios2C\Ejercicio12\obj\Debug\net6.0\Ejercicio12.dll
+C:\Users\ezequ\Desktop\Ejercicios2C\Ejercicio12\obj\Debug\net6.0\refint\Ejercicio12.dll
+C:\Users\ezequ\Desktop\Ejercicios2C\Ejercicio12\obj\Debug\net6.0\Ejercicio12.pdb
+C:\Users\ezequ\Desktop\Ejercicios2C\Ejercicio12\obj\Debug\net6.0\Ejercicio12.genruntimeconfig.cache
+C:\Users\ezequ\Desktop\Ejercicios2C\Ejercicio12\obj\Debug\net6.0\ref\Ejercicio12.dll
