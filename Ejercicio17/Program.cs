@@ -47,9 +47,7 @@ namespace Ejercicio17
                 Console.WriteLine(dibujo);
             }
 
-
-            //boligrafoAzul.Pintar(10, out string dibujo);
-            //Console.WriteLine($"{dibujo}");
+            
         }
     }
 }
