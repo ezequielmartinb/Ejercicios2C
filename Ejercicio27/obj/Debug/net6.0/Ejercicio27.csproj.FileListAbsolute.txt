@@ -1,0 +1,15 @@
+C:\Users\ezequ\Desktop\Ejercicios2C\Ejercicio27\bin\Debug\net6.0\Ejercicio27.exe
+C:\Users\ezequ\Desktop\Ejercicios2C\Ejercicio27\bin\Debug\net6.0\Ejercicio27.deps.json
+C:\Users\ezequ\Desktop\Ejercicios2C\Ejercicio27\bin\Debug\net6.0\Ejercicio27.runtimeconfig.json
+C:\Users\ezequ\Desktop\Ejercicios2C\Ejercicio27\bin\Debug\net6.0\Ejercicio27.dll
+C:\Users\ezequ\Desktop\Ejercicios2C\Ejercicio27\bin\Debug\net6.0\Ejercicio27.pdb
+C:\Users\ezequ\Desktop\Ejercicios2C\Ejercicio27\obj\Debug\net6.0\Ejercicio27.csproj.AssemblyReference.cache
+C:\Users\ezequ\Desktop\Ejercicios2C\Ejercicio27\obj\Debug\net6.0\Ejercicio27.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ezequ\Desktop\Ejercicios2C\Ejercicio27\obj\Debug\net6.0\Ejercicio27.AssemblyInfoInputs.cache
+C:\Users\ezequ\Desktop\Ejercicios2C\Ejercicio27\obj\Debug\net6.0\Ejercicio27.AssemblyInfo.cs
+C:\Users\ezequ\Desktop\Ejercicios2C\Ejercicio27\obj\Debug\net6.0\Ejercicio27.csproj.CoreCompileInputs.cache
+C:\Users\ezequ\Desktop\Ejercicios2C\Ejercicio27\obj\Debug\net6.0\Ejercicio27.dll
+C:\Users\ezequ\Desktop\Ejercicios2C\Ejercicio27\obj\Debug\net6.0\refint\Ejercicio27.dll
+C:\Users\ezequ\Desktop\Ejercicios2C\Ejercicio27\obj\Debug\net6.0\Ejercicio27.pdb
+C:\Users\ezequ\Desktop\Ejercicios2C\Ejercicio27\obj\Debug\net6.0\Ejercicio27.genruntimeconfig.cache
+C:\Users\ezequ\Desktop\Ejercicios2C\Ejercicio27\obj\Debug\net6.0\ref\Ejercicio27.dll
