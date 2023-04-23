@@ -1,0 +1,17 @@
+C:\Users\ezequ\Desktop\Ejercicios2C\Ejercicio28\bin\Debug\net6.0-windows\Ejercicio28.exe
+C:\Users\ezequ\Desktop\Ejercicios2C\Ejercicio28\bin\Debug\net6.0-windows\Ejercicio28.deps.json
+C:\Users\ezequ\Desktop\Ejercicios2C\Ejercicio28\bin\Debug\net6.0-windows\Ejercicio28.runtimeconfig.json
+C:\Users\ezequ\Desktop\Ejercicios2C\Ejercicio28\bin\Debug\net6.0-windows\Ejercicio28.dll
+C:\Users\ezequ\Desktop\Ejercicios2C\Ejercicio28\bin\Debug\net6.0-windows\Ejercicio28.pdb
+C:\Users\ezequ\Desktop\Ejercicios2C\Ejercicio28\obj\Debug\net6.0-windows\Ejercicio28.csproj.AssemblyReference.cache
+C:\Users\ezequ\Desktop\Ejercicios2C\Ejercicio28\obj\Debug\net6.0-windows\Ejercicio28.Frm_ContadorPalabras.resources
+C:\Users\ezequ\Desktop\Ejercicios2C\Ejercicio28\obj\Debug\net6.0-windows\Ejercicio28.csproj.GenerateResource.cache
+C:\Users\ezequ\Desktop\Ejercicios2C\Ejercicio28\obj\Debug\net6.0-windows\Ejercicio28.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ezequ\Desktop\Ejercicios2C\Ejercicio28\obj\Debug\net6.0-windows\Ejercicio28.AssemblyInfoInputs.cache
+C:\Users\ezequ\Desktop\Ejercicios2C\Ejercicio28\obj\Debug\net6.0-windows\Ejercicio28.AssemblyInfo.cs
+C:\Users\ezequ\Desktop\Ejercicios2C\Ejercicio28\obj\Debug\net6.0-windows\Ejercicio28.csproj.CoreCompileInputs.cache
+C:\Users\ezequ\Desktop\Ejercicios2C\Ejercicio28\obj\Debug\net6.0-windows\Ejercicio28.dll
+C:\Users\ezequ\Desktop\Ejercicios2C\Ejercicio28\obj\Debug\net6.0-windows\refint\Ejercicio28.dll
+C:\Users\ezequ\Desktop\Ejercicios2C\Ejercicio28\obj\Debug\net6.0-windows\Ejercicio28.pdb
+C:\Users\ezequ\Desktop\Ejercicios2C\Ejercicio28\obj\Debug\net6.0-windows\Ejercicio28.genruntimeconfig.cache
+C:\Users\ezequ\Desktop\Ejercicios2C\Ejercicio28\obj\Debug\net6.0-windows\ref\Ejercicio28.dll
